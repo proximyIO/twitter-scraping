@@ -32,7 +32,7 @@ A word of advice, though - don't try to juggle more than 10 login cookies with o
 
 With your login cookies and matching mobile proxies ready, you're all set to start setting up your scraping environment.
 
-## Chapter 3: Setting Up Your Simple Python Scraping Environment and Executing Your First Scrape Request**
+## Chapter 3: Setting Up Your Simple Python Scraping Environment and Executing Your First Scrape Request
 
 1. Create a Python file:  
 Start by creating a new file named example.py in a suitable directory on your local machine.
